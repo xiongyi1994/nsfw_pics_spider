@@ -5,5 +5,11 @@
 # IntelliJ project files
 .idea
 *.iml
+*.pyc
 out
 gen
+nsfw_pics/
+nsfw_pics_spider/__init__.pyc
+nsfw_pics_spider/settings.pyc
+nsfw_pics_spider/spiders/22aap.pyc
+nsfw_pics_spider/spiders/__init__.pyc
